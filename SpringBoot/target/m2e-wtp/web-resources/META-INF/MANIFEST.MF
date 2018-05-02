@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: SpringBoot
+Implementation-Version: springboot
+Implementation-Vendor-Id: com.htbb
+Build-Jdk: 1.7.0_04
+Built-By: Administrator
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBoot/
+
